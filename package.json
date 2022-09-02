@@ -21,9 +21,6 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
-    "@ls-age/commitlint-circle": "^1.0.0",
     "eslint": "^6.6.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.13.0",
@@ -39,8 +36,5 @@
   "peerDependencies": {
     "express": "4.x",
     "prom-client": ">= 10.x <= 13.x"
-  },
-  "optionalDependencies": {
-    "prometheus-gc-stats": "^0.6.2"
   }
 }
