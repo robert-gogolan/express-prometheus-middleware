@@ -1,6 +1,6 @@
 {
-  "name": "express-prometheus-middleware",
-  "version": "1.2.0",
+  "name": "@robert23mg/express-prometheus-middleware",
+  "version": "1.2.1",
   "description": "RED/USE metrics for express applications",
   "keywords": [
     "express",
